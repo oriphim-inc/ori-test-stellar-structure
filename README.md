@@ -2,7 +2,7 @@
 
 # Stellar structure code: 1 Msun and a 0.5–5 Msun main-sequence sweep
 
-By held-out runner, with Ori.
+By Oriphim, with Ori.
 
 ## What was asked
 Build a stellar-structure code that solves the four structure equations (mass continuity,
